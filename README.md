@@ -1,5 +1,5 @@
 <h1 align="center">Ali Binshamlan</h1>
-<h3 align="center">Front-End Developer | Next.js · React · TypeScript</h3>
+<h3 align="center">Software Engineer | Front-End (Next.js · React · TypeScript)</h3>
 <p align="center">Building Arabic-first web products in Saudi Arabia</p>
 <p align="center">Currently at <a href="https://maps.app.goo.gl/nHG5puKuEqeXy16UA">Alehtimam Environmental Consulting Office</a></p>
 
