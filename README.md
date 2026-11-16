@@ -1,6 +1,7 @@
 <h1 align="center">Ali Binshamlan</h1>
 <h3 align="center">Front-End Developer | Next.js · React · TypeScript</h3>
 <p align="center">Building Arabic-first web products in Saudi Arabia</p>
+<p align="center">Currently at <a href="https://maps.app.goo.gl/nHG5puKuEqeXy16UA">Alehtimam Environmental Consulting Office</a></p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
